@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ceiling Fan",
+    "price": "2200",
+    "image": "assets/images/fan.jpg"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": "950",
+    "image": "assets/images/speaker.jpg"
+  },
+  {
+    "name": "Wireless Headphones",
+    "price": "1500",
+    "image": "assets/images/headphones.jpg"
+  },
+  {
+    "name": "Power Bank 10000mAh",
+    "price": "1150",
+    "image": "assets/images/powerbank.jpg"
+  },
+  {
+    "name": "Fast Charger",
+    "price": "499",
+    "image": "assets/images/charger.jpg"
+  },
+  {
+    "name": "Face Wash - Women",
+    "price": "350",
+    "image": "assets/images/facewash.jpg"
+  },
+  {
+    "name": "Lipstick Set",
+    "price": "599",
+    "image": "assets/images/lipstick.jpg"
+  },
+  {
+    "name": "Men's Hoodie",
+    "price": "890",
+    "image": "assets/images/hoodie.jpg"
+  },
+  {
+    "name": "Summer Vest",
+    "price": "300",
+    "image": "assets/images/vest.jpg"
+  },
+  {
+    "name": "Tauj (Tows)",
+    "price": "180",
+    "image": "assets/images/tauj.jpg"
+  }
+]
