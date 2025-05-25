@@ -1,12 +1,12 @@
 [
   {
     "name": "Ceiling Fan",
-    "price": "2100",
+    "price": "2000",
     "image": "assets/images/fan.jpg"
   },
   {
     "name": "Bluetooth Speaker",
-    "price": "950",
+    "price": "900",
     "image": "assets/images/speaker.jpg"
   },
   {
